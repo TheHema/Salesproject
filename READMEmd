@@ -1,0 +1,5 @@
+This project aims to predict sales amounts based
+on past sales data using Linear Regression.
+The data is fetched from a MySQL database,
+preprocessed with Python, and then used to
+train a machine learning model for sales prediction.
